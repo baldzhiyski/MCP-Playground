@@ -1,0 +1,1 @@
+## An MCP playground with bite-sized projects: build an MCP server, expose tools, plug in transports, and integrate with clients. Ideal for experimenting, benchmarking, and documenting best practices.
