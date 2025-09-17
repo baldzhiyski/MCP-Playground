@@ -1,3 +1,4 @@
 .idea
 .venv
 .env
+./advanced_mcp_exercise/backend/.env

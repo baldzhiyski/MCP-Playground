@@ -9,4 +9,10 @@ dependencies = [
     "mcp[cli]>=1.14.0",
     "openai>=1.107.2",
     "python-dotenv>=1.1.1",
+    "sqlalchemy>=2.0.43",
+    "stytch>=13.22.0",
+    "fastmcp>=2.10.5",
+    "python-jose>=3.5.0",
+    "sqlalchemy>=2.0.41",
+    "stytch>=13.11.0",
 ]
